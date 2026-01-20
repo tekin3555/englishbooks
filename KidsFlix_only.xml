@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="plex.tv.KidsFlix.plex">
+      <display-name lang="en">KidsFlix</display-name>
+      <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/poster/2000x2858/bb_the_big_shrink_avod_1400x2000_1.jpg" />
+      <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/poster/2000x2858/bb_the_big_shrink_avod_1400x2000_1.jpg" />
+      <url>http://www.plex.tv</url>
+    </channel>
+  <programme start="20260120011800 +0000" stop="20260120025700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Mission to the Moon</title>
+  <desc lang="en">In the international race to the moon, the Norwegian mission is led by brilliant inventor Reodor from the village of Flaklypa. With Louis the Magpie as the brave astronaut, what could possibly go wrong? Quite a bit, actually – on the daring mission, secret passengers are discovered, hidden agendas are revealed, and nothing seems to work out the way it was planned. Louis and his friend Luca the Hedgehog are in for some surprises on their trip to the moon. The third film in the stop-motion trilogy featuring the beloved characters from the Flaklypa universe.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/mission_to_the_moon_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>A</value>
+  </rating>
+  </programme>
+  <programme start="20260120025700 +0000" stop="20260120044200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Spy Cat</title>
+  <desc lang="en">Four crazy anti-heroes, one pawsome adventure. Join special-agent Marnie and her friends as they team up and fight crime. Spoiled and innocent, chubby house cat Marnie lives a comfortable and pampered life in the Sunshine household. She has never ventured outside the family home and only knows about the real world through her favourite detective, crime TV-shows.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/spy_cat_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120044200 +0000" stop="20260120050800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy Lupin manages to convince the pack elders to let him sit Howlington Academy’s entrance test. Freddy must use all his poodle wits- and his best friend Batty’s help!- to win a place at the historically wolf-only academy.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E1</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120050800 +0000" stop="20260120053400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s the first day of school, and Freddy immediately comes into conflict with bully Ivan, who blackmails him into stealing the sacred moonstone! But when Batty is exposed to the moonstone, she’s turned into a human girl!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E2</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120053400 +0000" stop="20260120060000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy attempts to teach Batty how to be human, while searching for a cure for her new form. A class assignment to capture the mysterious ‘Golden Horn’ and prove who the ‘alpha’ wolf is goes awry when a wilderwolf attacks!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E3</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120060000 +0000" stop="20260120062600 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy becomes convinced that there’s a wilderwolf at Howlington, and launches a daring investigation to prove that it’s the school accountant, Mr Sminch. Howlington gets a new teacher, the super cool and charming Ric Rawls.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E4</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120062600 +0000" stop="20260120065200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids are struck down by a flea infestation, and Freddy and Batty are tasked with tracking down the mysterious Doog, keeper of the Fleaminator, the most powerful flea treatment known to dog, before they’re all expelled!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E5</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120065200 +0000" stop="20260120071800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids head out on their first excursion to Night Patrol HQ. Freddy gets pulled into Scarlet’s world as she gets closer to the truth about werewolves and the two bond when they get stuck in the forest while tracking a wolf.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E6</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120071800 +0000" stop="20260120074400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s Howloween, and Howlington is on lockdown. But when the students stage a play that goes wrong and the lockdown is disrupted, it will be up to the kids to save the grown-ups from themselves - including Principal Pincus!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E7</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120074400 +0000" stop="20260120080000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy and Ivan have failed their runes exam and have to do it over - or they won’t be allowed to attend the Doom Wolves concert. But their study session ends up putting themselves, and the Doom Wolves, in grave danger!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E8</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120080000 +0000" stop="20260120095900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Back to the Sea</title>
+  <desc lang="en">When little fish Kevin is swept up in a net and taken from his home in the vast oceans to the small glass fish tank of a restaurant, he must find a way to escape and make his way back home.</desc>
+  <date>2012</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/back_to_the_sea_avod_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120095900 +0000" stop="20260120114900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Racetime</title>
+  <desc lang="en">Frankie and Sophie challenge newcomers Zac and Charlie to an epic sled race.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/racetime_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120114900 +0000" stop="20260120134300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Son of Bigfoot</title>
+  <desc lang="en">A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/son_of_bigfoot_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120134300 +0000" stop="20260120153300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Ozzy</title>
+  <desc lang="en">The lovable Ozzy’s pampered life is thrown into turmoil after his family drops him at Blue Creek before their vacation. Ozzy quickly learns that Blue Creek is a dog prison and he’ll need to rely on some new friends to help him break out and get back home.</desc>
+  <date>2017</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/ozzy_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120153300 +0000" stop="20260120172400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Stardog &amp; Turbocat</title>
+  <desc lang="en">A loyal dog and a vigilante cat embark on a space age voyage to find their way home.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/sdtc_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120172400 +0000" stop="20260120191800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Rally Road Racers</title>
+  <desc lang="en">A rookie race-car driver gets the opportunity to compete against the reigning champion. With help from a former driver, he must overcome treacherous terrain, rival racers and unexpected obstacles to prove he has what it takes.</desc>
+  <date>2024</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/roadrallywidescreen.jpg" />
+  </programme>
+  <programme start="20260120191800 +0000" stop="20260120200000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Cats</title>
+  <desc lang="en">A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/cats.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120200000 +0000" stop="20260120214700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Tall Tales</title>
+  <desc lang="en">When his beloved Queen bee Marguerite is kidnapped, vagabond cricket Apollo who has been framed for the crime, teams up with the other bugs to save the Queen and the entire kingdom.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/tall_tales_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120214700 +0000" stop="20260120232800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Luis and the Aliens</title>
+  <desc lang="en">A boy at risk of being sent to boarding school by his Dad - and three aliens stranded due to watching too much TV - must help each other out.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/lata_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260120232800 +0000" stop="20260121011800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Boonie Bears : The Big Shrink</title>
+  <desc lang="en">After purchasing a mysterious shrink ray machine, Vick accidentally shrinks Briar, Bramble, and himself. The tiny team must put aside their differences and embark on one big journey to restore their size and their friendship.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/bb_the_big_shrink_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121011800 +0000" stop="20260121025700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Mission to the Moon</title>
+  <desc lang="en">In the international race to the moon, the Norwegian mission is led by brilliant inventor Reodor from the village of Flaklypa. With Louis the Magpie as the brave astronaut, what could possibly go wrong? Quite a bit, actually – on the daring mission, secret passengers are discovered, hidden agendas are revealed, and nothing seems to work out the way it was planned. Louis and his friend Luca the Hedgehog are in for some surprises on their trip to the moon. The third film in the stop-motion trilogy featuring the beloved characters from the Flaklypa universe.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/mission_to_the_moon_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>A</value>
+  </rating>
+  </programme>
+  <programme start="20260121025700 +0000" stop="20260121044200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Spy Cat</title>
+  <desc lang="en">Four crazy anti-heroes, one pawsome adventure. Join special-agent Marnie and her friends as they team up and fight crime. Spoiled and innocent, chubby house cat Marnie lives a comfortable and pampered life in the Sunshine household. She has never ventured outside the family home and only knows about the real world through her favourite detective, crime TV-shows.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/spy_cat_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121044200 +0000" stop="20260121050800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy Lupin manages to convince the pack elders to let him sit Howlington Academy’s entrance test. Freddy must use all his poodle wits- and his best friend Batty’s help!- to win a place at the historically wolf-only academy.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E1</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121050800 +0000" stop="20260121053400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s the first day of school, and Freddy immediately comes into conflict with bully Ivan, who blackmails him into stealing the sacred moonstone! But when Batty is exposed to the moonstone, she’s turned into a human girl!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E2</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121053400 +0000" stop="20260121060000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy attempts to teach Batty how to be human, while searching for a cure for her new form. A class assignment to capture the mysterious ‘Golden Horn’ and prove who the ‘alpha’ wolf is goes awry when a wilderwolf attacks!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E3</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121060000 +0000" stop="20260121062600 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy becomes convinced that there’s a wilderwolf at Howlington, and launches a daring investigation to prove that it’s the school accountant, Mr Sminch. Howlington gets a new teacher, the super cool and charming Ric Rawls.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E4</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121062600 +0000" stop="20260121065200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids are struck down by a flea infestation, and Freddy and Batty are tasked with tracking down the mysterious Doog, keeper of the Fleaminator, the most powerful flea treatment known to dog, before they’re all expelled!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E5</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121065200 +0000" stop="20260121071800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids head out on their first excursion to Night Patrol HQ. Freddy gets pulled into Scarlet’s world as she gets closer to the truth about werewolves and the two bond when they get stuck in the forest while tracking a wolf.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E6</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121071800 +0000" stop="20260121074400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s Howloween, and Howlington is on lockdown. But when the students stage a play that goes wrong and the lockdown is disrupted, it will be up to the kids to save the grown-ups from themselves - including Principal Pincus!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E7</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121074400 +0000" stop="20260121080000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy and Ivan have failed their runes exam and have to do it over - or they won’t be allowed to attend the Doom Wolves concert. But their study session ends up putting themselves, and the Doom Wolves, in grave danger!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E8</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121080000 +0000" stop="20260121095900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Back to the Sea</title>
+  <desc lang="en">When little fish Kevin is swept up in a net and taken from his home in the vast oceans to the small glass fish tank of a restaurant, he must find a way to escape and make his way back home.</desc>
+  <date>2012</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/back_to_the_sea_avod_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121095900 +0000" stop="20260121114900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Racetime</title>
+  <desc lang="en">Frankie and Sophie challenge newcomers Zac and Charlie to an epic sled race.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/racetime_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121114900 +0000" stop="20260121134300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Son of Bigfoot</title>
+  <desc lang="en">A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/son_of_bigfoot_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121134300 +0000" stop="20260121153300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Ozzy</title>
+  <desc lang="en">The lovable Ozzy’s pampered life is thrown into turmoil after his family drops him at Blue Creek before their vacation. Ozzy quickly learns that Blue Creek is a dog prison and he’ll need to rely on some new friends to help him break out and get back home.</desc>
+  <date>2017</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/ozzy_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121153300 +0000" stop="20260121172400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Stardog &amp; Turbocat</title>
+  <desc lang="en">A loyal dog and a vigilante cat embark on a space age voyage to find their way home.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/sdtc_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121172400 +0000" stop="20260121191800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Rally Road Racers</title>
+  <desc lang="en">A rookie race-car driver gets the opportunity to compete against the reigning champion. With help from a former driver, he must overcome treacherous terrain, rival racers and unexpected obstacles to prove he has what it takes.</desc>
+  <date>2024</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/roadrallywidescreen.jpg" />
+  </programme>
+  <programme start="20260121191800 +0000" stop="20260121200000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Cats</title>
+  <desc lang="en">A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/cats.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121200000 +0000" stop="20260121214700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Tall Tales</title>
+  <desc lang="en">When his beloved Queen bee Marguerite is kidnapped, vagabond cricket Apollo who has been framed for the crime, teams up with the other bugs to save the Queen and the entire kingdom.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/tall_tales_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121214700 +0000" stop="20260121232800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Luis and the Aliens</title>
+  <desc lang="en">A boy at risk of being sent to boarding school by his Dad - and three aliens stranded due to watching too much TV - must help each other out.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/lata_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260121232800 +0000" stop="20260122011800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Boonie Bears : The Big Shrink</title>
+  <desc lang="en">After purchasing a mysterious shrink ray machine, Vick accidentally shrinks Briar, Bramble, and himself. The tiny team must put aside their differences and embark on one big journey to restore their size and their friendship.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/bb_the_big_shrink_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122011800 +0000" stop="20260122025700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Mission to the Moon</title>
+  <desc lang="en">In the international race to the moon, the Norwegian mission is led by brilliant inventor Reodor from the village of Flaklypa. With Louis the Magpie as the brave astronaut, what could possibly go wrong? Quite a bit, actually – on the daring mission, secret passengers are discovered, hidden agendas are revealed, and nothing seems to work out the way it was planned. Louis and his friend Luca the Hedgehog are in for some surprises on their trip to the moon. The third film in the stop-motion trilogy featuring the beloved characters from the Flaklypa universe.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/mission_to_the_moon_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>A</value>
+  </rating>
+  </programme>
+  <programme start="20260122025700 +0000" stop="20260122044200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Spy Cat</title>
+  <desc lang="en">Four crazy anti-heroes, one pawsome adventure. Join special-agent Marnie and her friends as they team up and fight crime. Spoiled and innocent, chubby house cat Marnie lives a comfortable and pampered life in the Sunshine household. She has never ventured outside the family home and only knows about the real world through her favourite detective, crime TV-shows.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/spy_cat_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122044200 +0000" stop="20260122050800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy Lupin manages to convince the pack elders to let him sit Howlington Academy’s entrance test. Freddy must use all his poodle wits- and his best friend Batty’s help!- to win a place at the historically wolf-only academy.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E1</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122050800 +0000" stop="20260122053400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s the first day of school, and Freddy immediately comes into conflict with bully Ivan, who blackmails him into stealing the sacred moonstone! But when Batty is exposed to the moonstone, she’s turned into a human girl!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E2</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122053400 +0000" stop="20260122060000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy attempts to teach Batty how to be human, while searching for a cure for her new form. A class assignment to capture the mysterious ‘Golden Horn’ and prove who the ‘alpha’ wolf is goes awry when a wilderwolf attacks!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E3</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122060000 +0000" stop="20260122062600 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy becomes convinced that there’s a wilderwolf at Howlington, and launches a daring investigation to prove that it’s the school accountant, Mr Sminch. Howlington gets a new teacher, the super cool and charming Ric Rawls.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E4</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122062600 +0000" stop="20260122065200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids are struck down by a flea infestation, and Freddy and Batty are tasked with tracking down the mysterious Doog, keeper of the Fleaminator, the most powerful flea treatment known to dog, before they’re all expelled!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E5</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122065200 +0000" stop="20260122071800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids head out on their first excursion to Night Patrol HQ. Freddy gets pulled into Scarlet’s world as she gets closer to the truth about werewolves and the two bond when they get stuck in the forest while tracking a wolf.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E6</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122071800 +0000" stop="20260122074400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s Howloween, and Howlington is on lockdown. But when the students stage a play that goes wrong and the lockdown is disrupted, it will be up to the kids to save the grown-ups from themselves - including Principal Pincus!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E7</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122074400 +0000" stop="20260122080000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy and Ivan have failed their runes exam and have to do it over - or they won’t be allowed to attend the Doom Wolves concert. But their study session ends up putting themselves, and the Doom Wolves, in grave danger!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E8</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122080000 +0000" stop="20260122095900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Back to the Sea</title>
+  <desc lang="en">When little fish Kevin is swept up in a net and taken from his home in the vast oceans to the small glass fish tank of a restaurant, he must find a way to escape and make his way back home.</desc>
+  <date>2012</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/back_to_the_sea_avod_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122095900 +0000" stop="20260122114900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Racetime</title>
+  <desc lang="en">Frankie and Sophie challenge newcomers Zac and Charlie to an epic sled race.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/racetime_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122114900 +0000" stop="20260122134300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Son of Bigfoot</title>
+  <desc lang="en">A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/son_of_bigfoot_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122134300 +0000" stop="20260122153300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Ozzy</title>
+  <desc lang="en">The lovable Ozzy’s pampered life is thrown into turmoil after his family drops him at Blue Creek before their vacation. Ozzy quickly learns that Blue Creek is a dog prison and he’ll need to rely on some new friends to help him break out and get back home.</desc>
+  <date>2017</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/ozzy_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122153300 +0000" stop="20260122172400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Stardog &amp; Turbocat</title>
+  <desc lang="en">A loyal dog and a vigilante cat embark on a space age voyage to find their way home.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/sdtc_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122172400 +0000" stop="20260122191800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Rally Road Racers</title>
+  <desc lang="en">A rookie race-car driver gets the opportunity to compete against the reigning champion. With help from a former driver, he must overcome treacherous terrain, rival racers and unexpected obstacles to prove he has what it takes.</desc>
+  <date>2024</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/roadrallywidescreen.jpg" />
+  </programme>
+  <programme start="20260122191800 +0000" stop="20260122200000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Cats</title>
+  <desc lang="en">A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/cats.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122200000 +0000" stop="20260122214700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Tall Tales</title>
+  <desc lang="en">When his beloved Queen bee Marguerite is kidnapped, vagabond cricket Apollo who has been framed for the crime, teams up with the other bugs to save the Queen and the entire kingdom.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/tall_tales_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122214700 +0000" stop="20260122232800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Luis and the Aliens</title>
+  <desc lang="en">A boy at risk of being sent to boarding school by his Dad - and three aliens stranded due to watching too much TV - must help each other out.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/lata_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260122232800 +0000" stop="20260123011800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Boonie Bears : The Big Shrink</title>
+  <desc lang="en">After purchasing a mysterious shrink ray machine, Vick accidentally shrinks Briar, Bramble, and himself. The tiny team must put aside their differences and embark on one big journey to restore their size and their friendship.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/bb_the_big_shrink_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123011800 +0000" stop="20260123025700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Mission to the Moon</title>
+  <desc lang="en">In the international race to the moon, the Norwegian mission is led by brilliant inventor Reodor from the village of Flaklypa. With Louis the Magpie as the brave astronaut, what could possibly go wrong? Quite a bit, actually – on the daring mission, secret passengers are discovered, hidden agendas are revealed, and nothing seems to work out the way it was planned. Louis and his friend Luca the Hedgehog are in for some surprises on their trip to the moon. The third film in the stop-motion trilogy featuring the beloved characters from the Flaklypa universe.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/mission_to_the_moon_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>A</value>
+  </rating>
+  </programme>
+  <programme start="20260123025700 +0000" stop="20260123044200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Spy Cat</title>
+  <desc lang="en">Four crazy anti-heroes, one pawsome adventure. Join special-agent Marnie and her friends as they team up and fight crime. Spoiled and innocent, chubby house cat Marnie lives a comfortable and pampered life in the Sunshine household. She has never ventured outside the family home and only knows about the real world through her favourite detective, crime TV-shows.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/spy_cat_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123044200 +0000" stop="20260123050800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy Lupin manages to convince the pack elders to let him sit Howlington Academy’s entrance test. Freddy must use all his poodle wits- and his best friend Batty’s help!- to win a place at the historically wolf-only academy.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E1</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123050800 +0000" stop="20260123053400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s the first day of school, and Freddy immediately comes into conflict with bully Ivan, who blackmails him into stealing the sacred moonstone! But when Batty is exposed to the moonstone, she’s turned into a human girl!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E2</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123053400 +0000" stop="20260123060000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy attempts to teach Batty how to be human, while searching for a cure for her new form. A class assignment to capture the mysterious ‘Golden Horn’ and prove who the ‘alpha’ wolf is goes awry when a wilderwolf attacks!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E3</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123060000 +0000" stop="20260123062600 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">Freddy becomes convinced that there’s a wilderwolf at Howlington, and launches a daring investigation to prove that it’s the school accountant, Mr Sminch. Howlington gets a new teacher, the super cool and charming Ric Rawls.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E4</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123062600 +0000" stop="20260123065200 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids are struck down by a flea infestation, and Freddy and Batty are tasked with tracking down the mysterious Doog, keeper of the Fleaminator, the most powerful flea treatment known to dog, before they’re all expelled!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E5</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123065200 +0000" stop="20260123071800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">The kids head out on their first excursion to Night Patrol HQ. Freddy gets pulled into Scarlet’s world as she gets closer to the truth about werewolves and the two bond when they get stuck in the forest while tracking a wolf.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E6</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123071800 +0000" stop="20260123074400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">100% Wolf : Legend of the Moonstone</title>
+  <desc lang="en">It’s Howloween, and Howlington is on lockdown. But when the students stage a play that goes wrong and the lockdown is disrupted, it will be up to the kids to save the grown-ups from themselves - including Principal Pincus!</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_c6dumxjr/version/0/vid_sec/440/width/3840/height/2160/type/3/a.jpg" />
+  <episode-num system="onscreen">S1 E7</episode-num>
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123080000 +0000" stop="20260123095900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Back to the Sea</title>
+  <desc lang="en">When little fish Kevin is swept up in a net and taken from his home in the vast oceans to the small glass fish tank of a restaurant, he must find a way to escape and make his way back home.</desc>
+  <date>2012</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/back_to_the_sea_avod_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123095900 +0000" stop="20260123114900 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Racetime</title>
+  <desc lang="en">Frankie and Sophie challenge newcomers Zac and Charlie to an epic sled race.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/racetime_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123114900 +0000" stop="20260123134300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Son of Bigfoot</title>
+  <desc lang="en">A teenage boy journeys to find his missing father only to discover that he's actually Bigfoot.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/son_of_bigfoot_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123134300 +0000" stop="20260123153300 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Ozzy</title>
+  <desc lang="en">The lovable Ozzy’s pampered life is thrown into turmoil after his family drops him at Blue Creek before their vacation. Ozzy quickly learns that Blue Creek is a dog prison and he’ll need to rely on some new friends to help him break out and get back home.</desc>
+  <date>2017</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/ozzy_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123153300 +0000" stop="20260123172400 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Stardog &amp; Turbocat</title>
+  <desc lang="en">A loyal dog and a vigilante cat embark on a space age voyage to find their way home.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/sdtc_landscape.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123172400 +0000" stop="20260123191800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Rally Road Racers</title>
+  <desc lang="en">A rookie race-car driver gets the opportunity to compete against the reigning champion. With help from a former driver, he must overcome treacherous terrain, rival racers and unexpected obstacles to prove he has what it takes.</desc>
+  <date>2024</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/roadrallywidescreen.jpg" />
+  </programme>
+  <programme start="20260123191800 +0000" stop="20260123200000 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Cats</title>
+  <desc lang="en">A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/cats.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123200000 +0000" stop="20260123214700 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Tall Tales</title>
+  <desc lang="en">When his beloved Queen bee Marguerite is kidnapped, vagabond cricket Apollo who has been framed for the crime, teams up with the other bugs to save the Queen and the entire kingdom.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/tall_tales_avod_1920x1080_0.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123214700 +0000" stop="20260123232800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Luis and the Aliens</title>
+  <desc lang="en">A boy at risk of being sent to boarding school by his Dad - and three aliens stranded due to watching too much TV - must help each other out.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/lata_1920x1080.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+  <programme start="20260123232800 +0000" stop="20260124011800 +0000" channel="plex.tv.KidsFlix.plex">
+  <title lang="en">Boonie Bears : The Big Shrink</title>
+  <desc lang="en">After purchasing a mysterious shrink ray machine, Vick accidentally shrinks Briar, Bramble, and himself. The tiny team must put aside their differences and embark on one big journey to restore their size and their friendship.</desc>
+  <date>2025</date>
+  <category lang="en">Kids + Family</category>
+  <icon src="https://img.static-ottera.com/prod/viva/video/thumbnails/widescreen/3840x2160/bb_the_big_shrink_avod_1920x1080_1.jpg" />
+  <rating system="US">
+  <value>M/12</value>
+  </rating>
+  </programme>
+</tv>
